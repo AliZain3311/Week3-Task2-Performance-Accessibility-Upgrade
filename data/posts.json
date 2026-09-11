@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "title": "Building Reliable REST APIs",
+    "excerpt": "Practical principles for designing predictable, maintainable API endpoints.",
+    "content": "Reliable APIs begin with clear contracts, consistent validation, useful error responses, and predictable resource naming. Keep responses focused, validate input on the server, and document behavior that clients depend on.",
+    "category": "Backend",
+    "author": "Ali Zain",
+    "createdAt": "2026-08-20T09:00:00Z",
+    "updatedAt": "2026-08-20T09:00:00Z",
+    "image": "images/api.svg"
+  },
+  {
+    "id": "2",
+    "title": "Making Accessibility Part of the Workflow",
+    "excerpt": "Accessibility works best when it is considered from the first wireframe to the final test.",
+    "content": "Accessible interfaces use meaningful HTML, visible focus states, sufficient contrast, descriptive labels, logical heading order, and keyboard-friendly interactions. Treating accessibility as a normal engineering requirement makes products easier to use for everyone.",
+    "category": "Accessibility",
+    "author": "Ali Zain",
+    "createdAt": "2026-08-22T09:00:00Z",
+    "updatedAt": "2026-08-22T09:00:00Z",
+    "image": "images/accessibility.svg"
+  },
+  {
+    "id": "3",
+    "title": "From Prototype to Production",
+    "excerpt": "A practical checklist for turning a promising interface into a dependable product.",
+    "content": "Moving beyond a prototype means thinking about loading states, errors, empty states, data validation, responsive behavior, accessibility, and maintainability. A production-ready experience is not only visually polished; it also behaves predictably when conditions are not perfect.",
+    "category": "Engineering",
+    "author": "Ali Zain",
+    "createdAt": "2026-08-24T09:00:00Z",
+    "updatedAt": "2026-08-24T09:00:00Z",
+    "image": "images/engineering.svg"
+  },
+  {
+    "id": "4",
+    "title": "Design Systems for Consistent Interfaces",
+    "excerpt": "Reusable design tokens and components help teams ship cleaner interfaces faster.",
+    "content": "A small set of spacing, typography, color, radius, and interaction rules can eliminate visual inconsistency. Reusable components also make accessibility and responsive improvements easier to apply across an entire interface.",
+    "category": "Design",
+    "author": "Ali Zain",
+    "createdAt": "2026-08-26T09:00:00Z",
+    "updatedAt": "2026-08-26T09:00:00Z",
+    "image": "images/design.svg"
+  },
+  {
+    "id": "5",
+    "title": "Performance Starts with Better Assets",
+    "excerpt": "Faster websites are often created by making smarter decisions about assets and delivery.",
+    "content": "Performance is influenced by image dimensions, loading strategy, JavaScript execution, CSS complexity, caching, and network requests. Serving appropriately sized assets and avoiding unnecessary work improves perceived speed and makes interfaces feel more responsive.",
+    "category": "Performance",
+    "author": "Ali Zain",
+    "createdAt": "2026-08-28T09:00:00Z",
+    "updatedAt": "2026-08-28T09:00:00Z",
+    "image": "images/performance.svg"
+  },
+  {
+    "id": "6",
+    "title": "Responsive Interfaces That Feel Natural",
+    "excerpt": "Designing for different screens means adapting layout, interaction, and content\u2014not simply shrinking the desktop view.",
+    "content": "A strong responsive interface keeps important actions reachable, preserves readable typography, and adapts navigation and card layouts at sensible breakpoints. Testing real interactions on smaller screens helps reveal issues that are easy to miss on desktop.",
+    "category": "Frontend",
+    "author": "Ali Zain",
+    "createdAt": "2026-08-30T09:00:00Z",
+    "updatedAt": "2026-08-30T09:00:00Z",
+    "image": "images/responsive.svg"
+  },
+  {
+    "id": "7",
+    "title": "Practical Frontend Quality Checks",
+    "excerpt": "A lightweight quality checklist can catch usability problems before they reach users.",
+    "content": "Before shipping, check keyboard access, focus visibility, headings, labels, contrast, responsive layouts, image alternatives, loading states, and basic metadata. Combining automated checks with manual testing provides a more reliable picture of frontend quality.",
+    "category": "Quality",
+    "author": "Ali Zain",
+    "createdAt": "2026-09-01T09:00:00Z",
+    "updatedAt": "2026-09-01T09:00:00Z",
+    "image": "images/quality.svg"
+  },
+  {
+    "id": "8",
+    "title": "Better UX Through Clear Feedback",
+    "excerpt": "Small feedback patterns can make interfaces feel faster, clearer, and more trustworthy.",
+    "content": "Users should understand what happened after an action. Inline validation, progress indicators, success messages, clear errors, and useful empty states reduce uncertainty. Good feedback is especially important in forms and content-management workflows.",
+    "category": "UX",
+    "author": "Ali Zain",
+    "createdAt": "2026-09-03T09:00:00Z",
+    "updatedAt": "2026-09-03T09:00:00Z",
+    "image": "images/ux-feedback.svg"
+  }
+]
